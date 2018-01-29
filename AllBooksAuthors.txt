@@ -1,0 +1,130 @@
+1.Postmortem
+1.Patricia Cornwell
+2.The Secret Adversary
+2.Agatha Cristie
+3.The Firm
+3.John Grisham
+4.The Hitchhiker's Guide To The Galaxy
+4.Douglas Adams
+5.Watership Down
+5.Richard Adams
+6.The Five People You Meet in Heaven
+6.Mitch Albom
+7.Speak
+7.Laurie Halse Anderson
+8.I Know Why the Caged Bird Sings
+8.Maya Angelou
+9.Thirteen Reasons Why
+9.Jay Asher
+10.Foundation Series
+10.Isaac Asimov
+11.The Sisterhood of the Travelling Pants
+11.Ann Brashares
+12.A Great and Terrible Beauty
+12.Libba Bray
+13.The Da Vinci Code
+13.Dan Brown
+14.The Princess Diaries
+14.Meg Cabot
+15.Ender's Game
+15.Orson Scott Card
+16.The Hunt for Red October
+16.Tom Clancy
+17.The Hunger Games
+17.Suzanne Collins
+18.The Great Gatsby
+18.F. Scott Fitzgerald
+19.Ranger's Apprentice Series
+19.John Flanagan
+20.Inkheart
+20.Cornelia Funke
+21.Neuromancer
+21.William Gibson
+22.Lord of the Flies
+22.William Golding
+23.The Princess Bride
+23.William Goldman
+24.Dinotopia: A Land Apart from Time
+24.James Gurney
+25.Far North
+25.Will Hobbs
+26.Practical Magic
+26.Alice Hoffman
+27.Brave New World
+27.Aldous Huxley
+28.The Summer Tree
+28.Guy Gavriel Kay
+29.Flowers For Algernon
+29.Daniel Keyes
+30.Owl in Love
+30.Patrice Kindl
+31.Naruto
+31.Masashi Kishimoto
+32.Bleach (graphic novel)
+32.Tite Kubo
+33.Kiss the Dust
+33.Elizabeth Laird
+34.To Kill a Mockingbird
+34.Harper Lee
+35.The Lion the Witch and the Wardrobe
+35.C S Lewis
+36.The Bourne Series
+36.Robert Ludlum
+37.Life of Pi
+37.Yann Martel
+38.Breathless
+38.Lurlene McDaniel
+39.Twilight Series
+39.Stephenie Meyer
+40.Sabriel
+40.Garth Nix
+41.Nineteen Eighty-Four (1984)
+41.George Orwell
+42.Eragon
+42.Christopher Paolini
+43.Hatchet
+43.Gary Paulsen
+44.My Sister's Keeper
+44.Jodi Picoult
+45.The Golden Compass
+45.Philip Pullman
+46.Harry Potter Series
+46.J.K. Rowling
+47.Holes
+47.Louis Sachar
+48.Shonen Jump Series
+48.Shueisha
+49.The Shadow Club
+49.Neil Shusterman
+50.Bone Series
+50.Jeff Smith
+51.Maus: A Survivor's Tale
+51.Art Spiegelman
+52.The Joy Luck Club
+52.Amy Tan
+53.The Lord of the Rings
+53.J R R Tolkien
+54.The Hobbit
+54.J R R Tolkien
+55.Shattered
+55.Eric Walters
+56.The War Of The Worlds
+56.H G Wells
+57.Dealing with Dragons
+57.Patricia C. Wrede
+58.The Chrysalids
+58.John Wyndham
+59.Killing Floor
+59.Lee Child
+60.The Black Echo
+60.Michael Connelly
+61.Without Fail
+61.Lee Child
+62.Rules of Prey
+62.John Sanders
+63.City of Bones
+63.Michael Connelly
+64.Echo Burning
+64.Lee Child
+65.Mind Prey
+65.John Sanders
